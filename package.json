@@ -1,15 +1,10 @@
 {
   "name": "@nkzw/vite-ts-react-tailwind",
   "version": "0.0.1",
-  "author": "Christoph Nakazawa <christoph.pojer@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/cpojer/vite-ts-react-tailwind.git"
-  },
+  "author": "Spencer Chang <spencerc99@gmail.com>",
   "type": "module",
   "engines": {
-    "node": ">=18.11.0",
-    "pnpm": ">=7.1.0"
+    "node": ">=18.11.0"
   },
   "dependencies": {
     "react": "^18.2.0",
